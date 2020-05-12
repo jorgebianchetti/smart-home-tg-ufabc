@@ -26,4 +26,6 @@ The [Android app](Android-App/Android-Studio/TGIARAPP/) was developed using the 
 
 Both NodeMCU and Android app communicate with the Firebase Server.
 
+A short video showing the whole project working can be seen [here](https://www.youtube.com/watch?v=bIWgMfiRiRQ)!
+
 I hope you all enjoy it! :smiley:
