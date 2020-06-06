@@ -10,7 +10,7 @@ Yeah! The main idea was to use Bluetooth 5 for the communication between the hub
 The project was divided into a few parts:
 
 ### Hardware
-For the peripherals, some standalone boards were created for simplify the use of the Texas Instruments' CC2640R2F Bluetooth microcontroller. General purpose PCBs were also used to connect the remaining electronics components together.
+For the peripherals, some standalone boards with "Inverted-F" antennas were created to simplify the use of the Texas Instruments' CC2640R2F Bluetooth microcontroller. General purpose PCBs were also used to connect the remaining electronics components together.
 
 The hub was made using a NodeMCU, for the internet and Wi-Fi stuff, and a CC2640R2F LaunchKit, for the communication with the peripherals over Bluetooth 5.
 
